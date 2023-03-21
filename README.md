@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://iamdip10.io)
 <h1 align="center">Hi 👋, I'm Dip Saha</h1>
 <h3 align="center">Highly motivated web developer with a passion for creative problem-solving</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5d0913e5a254e08c7f3cce855cdc1fa71fcde377e69368f2cdcd55f944746565/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3634302f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdip10&label=Profile%20views&color=0e75b6&style=flat" alt="iamdip10" /> </p>
 
 - 🔭 I’m currently working on **Rentmate**
