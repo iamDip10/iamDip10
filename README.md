@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django, Tailwind CSS, React**
 
-- 💬 Ask me about **PHP, Java, Javascript, Data Structures**
+- 💬 Ask me about **Django, PHP, Node.js, Java, Javascript, Data Structures**
 
 - 📫 How to reach me **saha.dipofficial171@gmail.com**
 
