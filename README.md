@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdip10&label=Profile%20views&color=0e75b6&style=flat" alt="iamdip10" /> </p>
 
-- 🔭 I’m currently working on **UIU-meta-mesh**
+- 🔭 I’m currently working on **Tuition-Mate**
 
 - 🌱 I’m currently learning **Django, Tailwind CSS, React**
 
