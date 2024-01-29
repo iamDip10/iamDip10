@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **saha.dipofficial171@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L8fUHaxosabt2Mt7sq8XsLNiMuDzYDYF/view?usp=share_link](https://drive.google.com/file/d/1L8fUHaxosabt2Mt7sq8XsLNiMuDzYDYF/view?usp=share_link)
-](https://drive.google.com/file/d/1BwGbCaka1uEJ1sAZ3bQwSWCnBlEKIG9r/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1BwGbCaka1uEJ1sAZ3bQwSWCnBlEKIG9r/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dip-saha-5b87a9207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dip saha" height="30" width="40" /></a>
