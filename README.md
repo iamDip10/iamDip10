@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdip10&label=Profile%20views&color=0e75b6&style=flat" alt="iamdip10" /> </p>
 
-- 🔭 I’m currently working on **Tuition-Mate mobile app**
+- 🔭 I’m currently working on **amarUnion**
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **SvelteKit and Flutter**
 
-- 💬 Ask me about **Django, PHP, Node.js, Java, Javascript, Data Structures**
+- 💬 Ask me about **Django, PHP, Java, Javascript, Data Structures**
 
 - 📫 How to reach me **saha.dipofficial171@gmail.com**
 
