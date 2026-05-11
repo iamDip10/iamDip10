@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **TutorLMS**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently working on **Python Stack**
 
 - 💬 Ask me about **Django, PHP, Java, Javascript, Data Structures**
 
